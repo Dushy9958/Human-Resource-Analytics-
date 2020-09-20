@@ -33,5 +33,5 @@ This repository contains projects related to Analytics in HR Domain .
 - salary
 
 #### Performance of the prediction model :
-- Accuracy of the Model - 96.39 %  [     ]
+- Accuracy of the Model - [96.39 %]
 
