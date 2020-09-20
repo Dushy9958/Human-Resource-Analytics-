@@ -32,6 +32,8 @@ This repository contains projects related to Analytics in HR Domain .
 - department  
 - salary
 
-#### Performance of the prediction model :
-- Accuracy of the Model - [96.39 %]
+#### Performance of the prediction model on Test Data (new data on which it wasn't trained / encountered for the first time ):
+- Accuracy of the Model - [96.39 %] [Of all the cases (both leaving/staying) observed , the model predicts around 96 % of the cases accurately .]
+- Recall Score - [91 %] [Of all the the cases leaving , 91 % were accurately predicted .]
+
 
