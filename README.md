@@ -1,4 +1,4 @@
-# Human-Resource-Analytics-
+# Human Resource Analytics-
 This repository contains projects related to Analytics in HR Domain .
 
 ## Project 1 : Employee Churn Prediction
